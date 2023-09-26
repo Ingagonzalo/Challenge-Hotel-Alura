@@ -35,4 +35,4 @@ El proyecto está estructurado en torno a las siguientes entidades y operaciones
 
 ## CREADO POR:
 
-1. Diógenes Quintero
+1. Inga Gonzalo
